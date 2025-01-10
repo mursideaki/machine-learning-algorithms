@@ -21,16 +21,43 @@ Küçük ve orta boyutlu veri setlerinde etkilidir.
 
 Doğrusal ve doğrusal olmayan sınıflandırma problemlerinde kullanılabilir.
 
-# (Yakında Eklenecekler)
+# Boosting Algoritmaları ile Breast Cancer Veri Seti Analizi
 
-# Boosting Algoritmaları:
+Bu çalışmada, AdaBoost, Gradient Boosting, XGBoost, CatBoost ve LightGBM algoritmalarını kullanarak breast cancer veri seti üzerinde kapsamlı analizler
+gerçekleştirilmiştir. Çalışmada kullanılan algoritmalar için:
 
-Gradient Boosting: Yüksek doğruluk ve esneklik sunan bir algoritmadır.
+1. Karar Sınırları (Decision Boundary),
 
-AdaBoost: Hata yapan örneklerin ağırlıklarını artırarak öğrenen bir algoritmadır.
+2. SHAP ve LIME Analizleri,
 
-XGBoost: Hızlı ve etkili bir gradient boosting uygulamasıdır.
+3. Learning Curve ve Model Performans Metrikleri sunulmuştur.
 
+# AdaBoost
+
+AdaBoost algoritması, zayıf öğrenicilerden güçlü bir model oluşturmayı amaçlar. Karar sınırları ve tahmin hataları analiz edilmiştir.
+
+
+# Gradient Boosting
+
+Gradient Boosting, doğruluk artırmaya yönelik gradyan bilgilerini kullanır.
+
+
+# XGBoost
+
+XGBoost, optimizasyon ve paralel işleme yetenekleri ile öne çıkar. SHAP ve LIME görselleştirmeleri eklenmiştir.
+
+
+# CatBoost
+
+CatBoost, kategorik özellikler üzerinde etkili bir şekilde çalışır. Learning Curve analizleri ile model performansı gösterilmiştir.
+
+
+# LightGBM
+
+LightGBM, yaprak odaklı büyüme algoritması ile hızlı ve hafif bir çözüm sunar. Bu çalışmada model hiperparametre ayarları ve performansı değerlendirilmiştir.
+
+
+Yakında eklenecekler
 # Lineer Regresyon:
 
 Bağımlı değişken ile bağımsız değişkenler arasındaki doğrusal ilişkiyi modelleyen bir algoritmadır.
