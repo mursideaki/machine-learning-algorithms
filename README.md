@@ -57,14 +57,43 @@ CatBoost, kategorik özellikler üzerinde etkili bir şekilde çalışır. Learn
 LightGBM, yaprak odaklı büyüme algoritması ile hızlı ve hafif bir çözüm sunar. Bu çalışmada model hiperparametre ayarları ve performansı değerlendirilmiştir.
 
 
-Yakında eklenecekler
-# Lineer Regresyon:
+# Lineer ve Lojistik Regresyon
 
-Bağımlı değişken ile bağımsız değişkenler arasındaki doğrusal ilişkiyi modelleyen bir algoritmadır.
+Lineer Regresyon ve Lojistik Regresyon algoritmalarının detaylı açıklamaları ve gerçek dünya veri setleri ile yapılan uygulamaları içermektedir. Aşağıda her iki model için ele alınan ana konular ve ilgili metrikler ve görselleştirmeler özetlenmiştir.
 
-# Lojistik Regresyon:
+# Lineer Regresyon
 
-Sınıflandırma problemleri için kullanılan bir algoritmadır.
+Bu bölümde, Lineer Regresyon konusu açıklanmış ve California Housing Dataset kullanılarak bir uygulama yapılmıştır. Modelin performansını değerlendirmek için şu metrikler ayrıntılı bir şekilde incelenmiştir:
+
+1. MSE (Ortalama Kare Hata)
+
+2. RMSE (Kök Ortalama Kare Hata)
+
+3. R² (R-kare)
+
+4. Adjusted R² (Düzeltilmiş R-kare)
+
+Bu metrikler, modelin uyumunu ve tahmin doğruluğunu değerlendirmek için derinlemesine işlenmiştir. Ayrıca, modelin nasıl davrandığını ve değişkenler arasındaki ilişkileri anlamaya yardımcı olacak çeşitli grafiksel temsil yöntemleri de sunulmuştur.
+
+# Lojistik Regresyon
+
+Lojistik Regresyon bölümü, algoritmanın temellerini ve uygulamalarını kapsamaktadır. Bu bölümde incelenen ana konular şunlardır:
+
+1. ROC Eğrisi
+
+2. Özellik Önem Skorları
+
+3. Lojistik Regresyon Katsayıları
+
+4. Özelliklerin Modele Etkisi
+
+5. Karar Sınırları
+
+Bu bölümde, modelin karar verme sürecini, özelliklerin model üzerindeki etkisini ve lojistik regresyon katsayılarını açıklayan görselleştirmeler bulabilirsiniz.
+
+Yakında eklenecek...
+
+# KNN algoritması
 
 Not: Bu repo sürekli olarak güncellenecektir. Yeni algoritmalar ve özellikler eklendikçe README dosyası da güncellenecektir.
 
