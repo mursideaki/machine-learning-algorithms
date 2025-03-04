@@ -91,9 +91,10 @@ Lojistik Regresyon bölümü, algoritmanın temellerini ve uygulamalarını kaps
 
 Bu bölümde, modelin karar verme sürecini, özelliklerin model üzerindeki etkisini ve lojistik regresyon katsayılarını açıklayan görselleştirmeler bulabilirsiniz.
 
-Yakında eklenecek...
 
 # KNN algoritması
+
+KNN algoritması Wine dataseti kullanılarak anlatılmıştır
 
 Not: Bu repo sürekli olarak güncellenecektir. Yeni algoritmalar ve özellikler eklendikçe README dosyası da güncellenecektir.
 
